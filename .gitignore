@@ -1,0 +1,14 @@
+# Go build / tooling
+/bin/
+/build/
+/dist/
+/flashfind
+*.exe
+*.test
+*.out
+coverage.out
+
+# IDE / editor cruft
+.vscode/
+.idea/
+.DS_Store
